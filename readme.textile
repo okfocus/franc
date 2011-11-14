@@ -1,1 +1,41 @@
-Switch branches to gh-pages.
+h1. OKDrag from OKFocus
+
+p. OKDrag is a Tumblr theme that lays out your posts in a big grid that you can drag using the mouse.  As you scroll down the page, old posts are loaded automatically.  The layout works on all tag pages.  You can also use the arrow keys to jump from post to post.
+
+h2. Installation
+
+# Open theme.html in a text editor, select all and copy.
+# From the Tumblr dashboard, click *Customize Appearance.*
+# Click *Edit HTML*, select all and delete the old template.  Paste in the OKDrag theme.
+# Click *Update Preview*, then click *Appearance* and click *Save*, then reload the page.
+
+p. All Javascript and logos live on Tumblr's static file hosting service, so there is no need to upload these yourself.
+
+h2. Customization
+
+* *Text*, *Link* and *Background* all work as on a standard Tumblr.
+* *Post Shadow* sets the color of the drop shadow on individual posts.
+* *Text Shadow* sets the color of the drop shadow on text inside posts.
+* *Post Background* sets the background color of individual posts.
+
+* *Background Image* sets the background of the canvas.
+* *Logo* is an optional image that will appear on the top right corner of your blog.  Works best if it's short and wide like an envelope.
+
+* *Shadows on Posts* turns on and off the drop shadow on individual posts.
+* *Shadows on Text* turns on and off the drop shadow on text.
+* *Background on Posts* turns on and off the background color on posts.
+* *Stagger Rows* varies the positioning of alternating rows.
+* *Posts full width of the screen* varies the amount of horizontal space between posts.
+* *Show Title* shows or hides the title text up top.
+* *Show Dropdown* shows or hides the dropdown navigation up top.
+* *Show Permalink* shows or hides the permalink on posts.
+* *Use white OKFocus logo* if you're using a dark background.
+* *Use transparent white post background* makes the post backgrounds slightly transparent.
+
+* *Instructions* sets the text underneath the dropdown up top.
+* *Posts Per Row* varies the number of posts ground across.  Set to 1 to have all your posts in a column.
+
+h3. We Advise
+
+* Underneath the appearance section, click on *Advanced* and set *Posts Per Page* to 15.
+
