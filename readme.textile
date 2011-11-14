@@ -1,6 +1,8 @@
 h1. OKDrag from OKFocus
 
-p. OKDrag is a Tumblr theme that lays out your posts in a big grid that you can drag using the mouse.  As you scroll down the page, old posts are loaded automatically.  The layout works on all tag pages.  You can also use the arrow keys to jump from post to post.
+p. *Franc* is a Tumblr theme that lays out your posts in a big grid that you can drag using the mouse.  As you move around, new posts are loaded automatically.  The layout works on all tag and permalink pages and is totally customizable.  You can also use the arrow keys to jump from post to post.
+
+p. Franc was made especially for designer "Franc Fernandez":http://francfernandez.com/ and is featured on his website.
 
 h2. Installation
 
